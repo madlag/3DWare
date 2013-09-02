@@ -18,7 +18,7 @@ install_requires = [
 
 setup(name='madlag3dware',
     version=version,
-    description="",
+    description="solidpython/openscad parametric designs for 3D printing (raspberry pi case elements etc)",
     long_description=README + '\n\n' + NEWS,
     classifiers=[
       # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
