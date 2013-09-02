@@ -3,6 +3,10 @@ Madlag 3DWare
 
 This package contain various solidpython/openscad designs like raspberry pi case elements, specific robot parts.
 
+You can install it by :
+
+.. code-block:: 
+pip install madlag3dware
 
 Credits
 -------
